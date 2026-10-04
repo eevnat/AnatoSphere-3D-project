@@ -58,6 +58,7 @@ npm run build
 # optional AI: create .dev.vars with OPENAI_API_KEY=..., OPENAI_BASE_URL=..., OPENAI_MODEL=gpt-5-mini
 npx wrangler pages dev dist --ip 0.0.0.0 --port 3000
 ```
+
 Keyboard: `/` search · `E` extract · `X` explode · `H` hide · `L` labels · `Esc` deselect
 
 ## Deployment
@@ -70,3 +71,16 @@ Cloudflare Pages: `npm run build && npx wrangler pages deploy dist`. Set the AI 
 - CT/MRI → AI segmentation → 3D reconstruction (advanced version)
 
 > Educational simplified model – not to scale and not for medical diagnosis.
+
+## Project Links
+
+**Live Deployment:**  
+https://3000-iiotvf40nteu9gfz6lddw-0e616f0a.sandbox.gensparksite.com/
+
+**Hackathon PPT:**  
+https://www.genspark.ai/slides?project_id=0d29d013-9a86-4e18-bdcf-53de676d356a
+
+## Colaborated with
+
+- **Samruddhi2103**
+- **Mruj12**
